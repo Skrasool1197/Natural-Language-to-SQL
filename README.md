@@ -30,8 +30,8 @@ order_items (item_id, order_id, product_name, quantity, unit_price)
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/Skrasool1197/Natural-Language-to-SQL.git>
+cd <Natural-Language-to-SQL>
 ```
 
 2. Create and activate a virtual environment:
@@ -63,7 +63,7 @@ streamlit run app.py
 
 ## Usage
 
-1. Access the application through your web browser (typically http://localhost:8501)
+1. Access the application through your web browser (http://localhost:8501)
 2. View the database schema by expanding the "Show Database Schema" section
 3. Enter your question in natural language (e.g., "Show total sales for each month in 2023")
 4. Click "Generate SQL Query" to see the SQL query and its results
