@@ -30,8 +30,8 @@ order_items (item_id, order_id, product_name, quantity, unit_price)
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Skrasool1197/Natural-Language-to-SQL.git>
-cd <Natural-Language-to-SQL>
+git clone https://github.com/Skrasool1197/Natural-Language-to-SQL.git
+cd Natural-Language-to-SQL
 ```
 
 2. Create and activate a virtual environment:
